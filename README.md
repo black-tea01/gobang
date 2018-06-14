@@ -1,0 +1,2 @@
+# gobang
+python for gobang
